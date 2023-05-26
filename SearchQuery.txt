@@ -1,0 +1,23 @@
+Test Logika Search Query:
+1. Soal 1
+- Cara muncul deretan kelipatan 3 atau 7 di java
+- Cara membuat Array di Java
+
+
+2. Soal 2
+- Cara membuat Array di Java
+- Cara mengambil data Array
+
+3. Soal 3
+- Cara membuat password di Java
+- Cara menggunakan fungsi length string java
+- password validation dengan boolean Method
+
+4. Soal 4
+- cara melakukan array sort
+- cara mencari nilai terkecil Array di Java
+
+
+5. Soal 5
+- cara membuat pola array di Java
+
